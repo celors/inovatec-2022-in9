@@ -1,4 +1,4 @@
-# Projeto de Inovação (Inovatec 2022)
+# Projeto de Inovação (Inovatec 2022 - beta In9 (innove))
 
 ## Integrantes 
 
